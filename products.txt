@@ -1,0 +1,10 @@
+P001,Laptop-R,100,A high-performance red laptop for modern needs.,3000.00
+P002,Laptop-S,200,A high-performance silver laptop for modern needs.,3000.00
+P003,Laptop-B,200,A high-performance black laptop for modern needs.,3000.00
+P004,Tablet-S,300,A 128GB silver tablet for entertainment and productivity.,2500.00
+P005,Tablet-B,300,A 128GB black tablet for entertainment and productivity.,2500.00
+P006,Smartphone-B,300,A 256GB black smartphone for daily use.,2000.00
+P007,Smartphone-R,100,A 256GB red smartphone for daily use.,2000.00
+P008,Mouse-G,400,A grey wireless optical mouse.,30.00
+P009,Earphone-W,300,A white Bluetooth earphone with clear sound.,100.00
+P010,Smartwatch-S,200,A stylish silver smartwatch with fitness and sleep tracking.,800.00

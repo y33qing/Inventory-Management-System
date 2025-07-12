@@ -1,0 +1,4 @@
+S001,SmartTech Innovations,0127878954
+S002,GadgetWorld Inc.,01168653245
+S003,Future Devices Ltd.,0166572445
+S004,TechHub Solutions,0189515467
